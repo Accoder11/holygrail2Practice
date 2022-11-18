@@ -38,7 +38,7 @@ article {
 .formContainer {
     display: flex;
     padding: 20px; 
-    column-gap: 10px;
+    column-gap: 20px;
     height: 100%;
 }
 
@@ -76,7 +76,7 @@ input[name="pickupDate"] {
     padding: 5px;
 }
 input[name="dropoff"] {
-    flex: 2;
+    flex: 2.7;
     padding: 5px;
 }
 
