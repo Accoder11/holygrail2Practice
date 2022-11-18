@@ -47,7 +47,7 @@ article {
 }
 
 .flex-item.left {
-    width: 70%;
+    width: 60%;
     padding: 20px;
 }
 .field label {
@@ -79,7 +79,7 @@ input[name="dropoff"] {
 }
 
 .flex-item.right {
-    width: 30%;
+    width: 40%;
     padding: 20px;
 }
 
