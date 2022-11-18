@@ -5,17 +5,17 @@ body {
     margin: 0;
 }
 header, footer {
-    height: 10vh;
+    height: 15vh;
     background: blue;
     padding: 15px;
 }
 main {
     display: flex;
-    height: 80vh;
+    height: 70vh;
 }
 nav, aside {
     width: 20%;
-    height: 80vh;
+    height: 70vh;
     padding: 15px;
 }
 nav {
@@ -24,7 +24,7 @@ nav {
 aside {background: red;}
 
 article {
-    padding-bottom: 50px;
+    padding-bottom: 40px;
     width: 100%;
 }
 
@@ -37,7 +37,7 @@ article {
 
 .formContainer {
     display: flex;
-    padding: 20px; 
+    padding: 30px; 
     column-gap: 20px;
     height: 100%;
 }
@@ -91,7 +91,7 @@ input[name="dropoff"] {
 }
 input[type="submit"] {
     border: 0;
-    padding: 20px;
+    padding: 15px;
     background: red;
 }
 input[type="submit"]:hover {
@@ -103,5 +103,5 @@ form {
     justify-content: center;
     height: 100%;
     background: orange;
-    padding-bottom: 15px;
+    padding-bottom: 50px;
 }
