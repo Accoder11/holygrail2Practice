@@ -36,7 +36,7 @@ article {
 
 .formContainer {
     display: flex;
-    padding: 20px; 
+    padding: 10px; 
     column-gap: 10px;
     height: 100%;
 }
@@ -51,7 +51,8 @@ article {
     padding: 20px;
 }
 .field label {
-    flex: 1;
+    flex: 2;
+    padding: 5px;
 }
 input[type="text"] {
     flex: 6;
@@ -70,11 +71,11 @@ input[name="pickupDate"] {
     padding: 5px;
 }
 .field select {
-    flex: 4;
+    flex: 3;
     padding: 5px;
 }
 input[name="dropoff"] {
-    flex: 3;
+    flex: 2;
     padding: 5px;
 }
 
